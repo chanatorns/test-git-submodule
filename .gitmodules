@@ -1,3 +1,6 @@
 [submodule "packages/helloanderson"]
 	path = packages/helloanderson
 	url = https://github.com/chanatorns/helloanderson.git
+[submodule "packagesWithNosubfolder"]
+	path = packagesWithNosubfolder
+	url = https://github.com/chanatorns/helloanderson.git
